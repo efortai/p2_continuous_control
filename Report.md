@@ -36,7 +36,8 @@ Here’s the pseudo-code of the algorithm:
 |max_t | 1000|
 
 ### Results  
-Environment solved in 113 episodes!	Average Score: 30.07
+Environment solved in 113 episodes!	Average Score: 30.07  
+
 ![avatar](images/scores_plot.png) 
 
 ### Ideas for Future Work
